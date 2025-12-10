@@ -1,6 +1,6 @@
 #Data
-DATA/raw_data/data.txt
-DATA/raw_data/moviTitles.csv
+data.txt
+movieTitles.csv
 
 #environments 
 venv_win/
