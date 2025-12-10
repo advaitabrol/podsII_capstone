@@ -3,4 +3,4 @@ DATA/raw_data/data.txt
 DATA/raw_data/moviTitles.csv
 
 #environments 
-capstone_venv/
+venv_win/
