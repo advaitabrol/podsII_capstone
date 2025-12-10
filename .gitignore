@@ -1,5 +1,6 @@
 #Data
-DATA/raw_data/
+DATA/raw_data/data.txt
+DATA/raw_data/moviTitles.csv
 
 #environments 
 capstone_venv/
